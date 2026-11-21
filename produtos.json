@@ -1,0 +1,62 @@
+[
+  {
+    "id": "booster-escarlate-violeta",
+    "nome": "Booster Escarlate e Violeta",
+    "colecao": "Escarlate e Violeta",
+    "tipo": "Booster",
+    "idioma": "Português",
+    "preco": 24.90,
+    "estoque": 40,
+    "descricao": "Pacote com 10 cartas aleatórias da coleção base Escarlate e Violeta."
+  },
+  {
+    "id": "etb-paldea-evolvida",
+    "nome": "Elite Trainer Box - Paldea Evoluída",
+    "colecao": "Paldea Evoluída",
+    "tipo": "Elite Trainer Box",
+    "idioma": "Português",
+    "preco": 289.90,
+    "estoque": 8,
+    "descricao": "9 boosters, mais de 65 cartas-energia, dados e marcadores de dano, tudo em caixa colecionável."
+  },
+  {
+    "id": "booster-box-obsidian",
+    "nome": "Booster Box - Chamas Obsidianas",
+    "colecao": "Chamas Obsidianas",
+    "tipo": "Booster Box",
+    "idioma": "Inglês",
+    "preco": 749.90,
+    "estoque": 5,
+    "descricao": "Caixa fechada com 36 boosters da coleção Chamas Obsidianas."
+  },
+  {
+    "id": "lata-charizard",
+    "nome": "Lata Colecionável - Charizard ex",
+    "colecao": "Escarlate e Violeta",
+    "tipo": "Lata",
+    "idioma": "Português",
+    "preco": 139.90,
+    "estoque": 15,
+    "descricao": "Lata temática com 4 boosters e uma carta jumbo do Charizard ex."
+  },
+  {
+    "id": "booster-destinos-de-paldea",
+    "nome": "Booster Destinos de Paldea",
+    "colecao": "Destinos de Paldea",
+    "tipo": "Booster",
+    "idioma": "Português",
+    "preco": 26.90,
+    "estoque": 60,
+    "descricao": "Pacote com 10 cartas aleatórias da coleção Destinos de Paldea."
+  },
+  {
+    "id": "etb-destinos-paldea",
+    "nome": "Elite Trainer Box - Destinos de Paldea",
+    "colecao": "Destinos de Paldea",
+    "tipo": "Elite Trainer Box",
+    "idioma": "Português",
+    "preco": 299.90,
+    "estoque": 6,
+    "descricao": "9 boosters, acessórios de jogo e caixa de coleção exclusiva da linha Destinos de Paldea."
+  }
+]
